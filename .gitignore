@@ -1,0 +1,9 @@
+mongodb/
+mongodb-data/
+package-lock.json
+node_modules/
+config
+src/.env
+
+
+
